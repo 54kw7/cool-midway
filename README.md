@@ -1,7 +1,7 @@
 # cool-midway
-<p align="center">
+<!-- <p align="center">
   <a href="https://midwayjs.org/" target="blank"><img src="https://cool-show.oss-cn-shanghai.aliyuncs.com/admin/logo.png" width="200" alt="Midway Logo" /></a>
-</p>
+</p> -->
 
 <p align="center">cool-admin(nodejs版)一个很酷的后台权限管理系统，开源免费，Ai编码、流程编排、模块化、插件化、极速开发CRUD，方便快速构建迭代后台管理系统，支持原生、docker、普通服务器等多种方式部署
 到 <a href="https://cool-js.com" target="_blank">官网</a> 进一步了解。
