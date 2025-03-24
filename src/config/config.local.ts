@@ -22,7 +22,11 @@ export default {
         // 字符集
         charset: 'utf8mb4',
         // 是否开启缓存
-        cache: true,
+        // cache: true,
+        cache: {
+          type: 'database',
+          tableName: 'query_result_cache',
+        },
         // 实体路径
         entities: ['**/modules/*/entity'],
         // 订阅者
